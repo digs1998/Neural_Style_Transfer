@@ -1,7 +1,8 @@
 # Neural_Style_Transfer
 Using Pytorch, keras, Tensorflow and FastAI for implementing neural style transfer on given image dataset.
 
-#PYTORCH
+# PYTORCH
+
 Using pretrained VGG19 model on pytorch neural style transfer was possible
 1) We first initialized the runtime on colab to GPU for faster processing
 2) Load the torch libraries and pretrained VGG19 model
@@ -11,6 +12,7 @@ Using pretrained VGG19 model on pytorch neural style transfer was possible
 6) training and validation steps are computed.
 
 References:
+
 https://github.com/smara97/Machine-Learning-Projects/blob/master/Neural%20Style%20Transfer/neural-style-transfer.ipynb
 
 ##TODO
